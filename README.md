@@ -1,7 +1,7 @@
 ### Luke Whitestone
 
-**AI Infrastructure. Risk Stewardship.**
+AI Infrastructure and Risk Stewardship.
 
-Practitioner engineer wiring AI governance into code itself; making accountability checkable by construction rather than taken on faith.
+My goal is to wire AI governance into code, making accountability checkable by construction.
 
 Website: [lukewhitest.one](https://lukewhitest.one/)
